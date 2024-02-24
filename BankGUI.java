@@ -12,7 +12,7 @@ public class BankGUI implements ActionListener
     //Declaration of arraylist object and initialization  
     ArrayList<BankCard>arrayList=new ArrayList<BankCard>();
     //Declaring jframes
-  private  JFrame frame,frameCredit,frame2,frameCreditLimit,frameWithdraw,frameCancelCreditCard,frameDisplayDebitCard,frameDisplayCreditCard;
+  private  JFrame frame,frameCredit,frameCreditLimit,frameWithdraw,frameCancelCreditCard,frameDisplayDebitCard,frameDisplayCreditCard;
     //combo box components
   private  JComboBox<String> cExpirationDateYear,cExpirationDateMonth,cExpirationDateDay,cWithdrawlDateYear,cWithdrawlDateMonth,cWithdrawlDateDay;
     // Declaring  Label components
